@@ -11,5 +11,12 @@ h1{
     }
     
     body {
-    background-color: #007471;
+    background-color: #007472;
     }
+
+    img {
+        width: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
